@@ -1,0 +1,23 @@
+{
+  "name": "packagejsondemo",
+  "version": "1.0.0",
+  "description": "Simple Package.json demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NegaAshley/PackageJsonDemo.git"
+  },
+  "keywords": [
+    "package.json",
+    "demo"
+  ],
+  "author": "Ashley Xu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NegaAshley/PackageJsonDemo/issues"
+  },
+  "homepage": "https://github.com/NegaAshley/PackageJsonDemo#readme"
+}
